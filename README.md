@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
