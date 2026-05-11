@@ -1,32 +1,45 @@
+import java.util.*;
+
 class Solution {
     public String decodeString(String s) {
 
-        while (s.contains("[")) {
+        Stack<Integer> countStack = new Stack<>();
+        Stack<StringBuilder> stringStack = new Stack<>();
 
-            int close = s.indexOf(']');
-            int open = s.lastIndexOf('[', close);
+        StringBuilder currentString = new StringBuilder();
+        int currentNum = 0;
 
-            int numStart = open - 1;
+        for (char ch : s.toCharArray()) {
 
-            while (numStart >= 0 && Character.isDigit(s.charAt(numStart))) {
-                numStart--;
+            if (Character.isDigit(ch)) {
+                currentNum = currentNum * 10 + (ch - '0');
             }
 
-            numStart++;
+            else if (ch == '[') {
+                countStack.push(currentNum);
+                stringStack.push(currentString);
 
-            int num = Integer.parseInt(s.substring(numStart, open));
-
-            String word = s.substring(open + 1, close);
-
-            String repeated = "";
-
-            for (int i = 0; i < num; i++) {
-                repeated += word;
+                currentNum = 0;
+                currentString = new StringBuilder();
             }
 
-            s = s.substring(0, numStart) + repeated + s.substring(close + 1);
+            else if (ch == ']') {
+
+                int repeatTimes = countStack.pop();
+                StringBuilder previousString = stringStack.pop();
+
+                for (int i = 0; i < repeatTimes; i++) {
+                    previousString.append(currentString);
+                }
+
+                currentString = previousString;
+            }
+
+            else {
+                currentString.append(ch);
+            }
         }
 
-        return s;
+        return currentString.toString();
     }
 }
