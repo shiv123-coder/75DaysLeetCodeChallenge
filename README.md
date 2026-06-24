@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
