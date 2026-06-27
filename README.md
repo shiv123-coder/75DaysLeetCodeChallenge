@@ -450,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
