@@ -458,4 +458,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0177-nth-highest-salary) |
+| [1158-market-analysis-i](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1158-market-analysis-i) |
 <!---LeetCode Topics End-->
