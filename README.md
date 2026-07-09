@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0101-symmetric-tree) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
