@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Data Stream
 |  |
