@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -500,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
