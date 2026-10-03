@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
 |  |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 ## Geometry
 |  |
 | ------- |
