@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -538,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
