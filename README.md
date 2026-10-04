@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Hash Table
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1672-richest-customer-wealth](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
 | ------- |
