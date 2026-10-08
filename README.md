@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
