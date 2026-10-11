@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
