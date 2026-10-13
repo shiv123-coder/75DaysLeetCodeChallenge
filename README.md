@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
