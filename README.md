@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [3110-score-of-a-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
