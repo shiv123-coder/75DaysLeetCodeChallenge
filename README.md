@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1189-maximum-number-of-balloons](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Quickselect
 |  |
 | ------- |
