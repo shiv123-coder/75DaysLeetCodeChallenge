@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1768-merge-strings-alternately](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
