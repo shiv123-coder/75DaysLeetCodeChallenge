@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/3136-valid-word) |
+| [3340-check-balanced-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/3340-check-balanced-string) |
 ## Divide and Conquer
 |  |
 | ------- |
