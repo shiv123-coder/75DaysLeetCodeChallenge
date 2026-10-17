@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
+| [3136-valid-word](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/3136-valid-word) |
 ## Divide and Conquer
 |  |
 | ------- |
