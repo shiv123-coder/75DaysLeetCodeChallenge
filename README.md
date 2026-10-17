@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1408-string-matching-in-an-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1408-string-matching-in-an-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/3136-valid-word) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [1408-string-matching-in-an-array](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
