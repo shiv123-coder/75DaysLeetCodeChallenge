@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2769-find-the-maximum-achievable-number](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2769-find-the-maximum-achievable-number) |
 ## Monotonic Stack
 |  |
 | ------- |
