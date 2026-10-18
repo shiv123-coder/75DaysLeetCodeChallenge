@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Database
 |  |
@@ -611,4 +614,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shiv123-coder/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
